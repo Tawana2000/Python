@@ -15,3 +15,4 @@ def word_order(words):
 
 words = ["apple", "banana", "apple", "orange", "banana", "apple"]
 print(word_order(words))
+
