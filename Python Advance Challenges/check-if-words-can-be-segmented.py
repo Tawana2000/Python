@@ -1,4 +1,4 @@
-# Write a function to check if four given words can be completely segmented from the string
+# Write a function to check if four given words can be completely segmented from the string. 
 
 def can_segment_string(s, words = ['apple', 'pear', 'pier', 'pie']):
 
