@@ -1,4 +1,4 @@
-# Write a function to find all factors of a given number
+# Write a function to find all factors of a given number. 
 
 def get_factors(n):
 
