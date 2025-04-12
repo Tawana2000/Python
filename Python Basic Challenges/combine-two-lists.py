@@ -1,4 +1,4 @@
-# Write a function to combine two lists
+# Write a function to combine two lists.
 
 def fruit_salad(list1, list2):
 
