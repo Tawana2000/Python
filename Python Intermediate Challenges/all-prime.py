@@ -1,4 +1,4 @@
-# Write a function to check if all numbers in a given list are prime
+# Write a function to check if all numbers in a given list are prime.
 
 def all_primes(numbers):
 
