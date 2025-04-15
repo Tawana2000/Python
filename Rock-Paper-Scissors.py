@@ -1,4 +1,4 @@
-import random 
+import random
 items = ['rock', 'raper','scissors']
 
 a = input('Player_1: Please make your selection  --> rock, --> paper, --> scissors:\n')
