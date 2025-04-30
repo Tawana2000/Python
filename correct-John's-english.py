@@ -12,6 +12,6 @@ def improve_english(string):
     return string
 
 
-string = input()
+string = input('Type your words: ')
 print(improve_english(string))
 
