@@ -10,4 +10,5 @@ def majority_element(num_list):
             return num
         
 number = [1,7,8,7,7,7]
+number = [5, 2, 6, 6, 8, 12, 23, 23, 8, 8]
 print(majority_element(number))
