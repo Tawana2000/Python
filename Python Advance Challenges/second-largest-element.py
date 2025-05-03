@@ -6,3 +6,4 @@ def second_largest(lst):
     return lst[-2] if len(lst) > 1 else None
 
 print(second_largest([1, 2, 3, 4, 5]))
+print(second_largest([4, 5, 23, 2, 1, 8, 14]))
