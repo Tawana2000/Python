@@ -12,3 +12,4 @@ def repeat_vowels(string):
     return new_str
 
 print(repeat_vowels('hello'))
+print(repeat_vowels('Breakfast'))
