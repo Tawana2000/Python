@@ -18,3 +18,4 @@ def sponge_case(text):
     return result
 
 print(sponge_case('peace of mind'))
+print(sponge_case('Hello World'))
