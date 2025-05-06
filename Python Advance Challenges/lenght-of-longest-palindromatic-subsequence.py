@@ -28,5 +28,6 @@ def longest_palindrome_subsequence(s):
 
 print(longest_palindrome_subsequence("bbbab")) 
 print(longest_palindrome_subsequence("cbbd"))  
-print(longest_palindrome_subsequence("a"))      
+print(longest_palindrome_subsequence("a"))
+print(longest_palindrome_subsequence("addaber"))
 print(longest_palindrome_subsequence(""))       
