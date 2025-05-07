@@ -10,3 +10,4 @@ def excel_column_number(column_title):
     return result
 
 print(excel_column_number('AB'))
+print(excel_column_number('GI'))
