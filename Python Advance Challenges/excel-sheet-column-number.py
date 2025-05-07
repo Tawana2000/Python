@@ -11,3 +11,4 @@ def excel_column_number(column_title):
 
 print(excel_column_number('AB'))
 print(excel_column_number('GI'))
+print(excel_column_number('CK'))
