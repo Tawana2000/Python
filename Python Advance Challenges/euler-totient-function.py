@@ -19,3 +19,4 @@ def eulers_totient(n):
 
 print(eulers_totient(9))
 print(eulers_totient(20))
+print(eulers_totient(33))
