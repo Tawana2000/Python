@@ -11,3 +11,4 @@ def check_consecutive_numbers(numbers):
     
 print(check_consecutive_numbers([1, 2, 2, 2, 5]))
 print(check_consecutive_numbers([5, 6, 2, 13, 4, 4]))
+print(check_consecutive_numbers([8, 12, 4, 5, 76, 4]))
