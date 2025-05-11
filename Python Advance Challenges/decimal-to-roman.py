@@ -14,3 +14,4 @@ def decimal_to_roman(num):
     return result
 
 print(decimal_to_roman(1880))
+print(decimal_to_roman(1423))
