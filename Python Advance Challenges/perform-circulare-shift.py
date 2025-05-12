@@ -12,4 +12,4 @@ def circular_shift(lst):
     return lst
 
 lst = [1, 2, 3, 4, 5]
-print(circular_shift(lst))
+print(circular_shift(lst)) 
