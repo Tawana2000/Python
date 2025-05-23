@@ -6,3 +6,4 @@ def can_segment_string(s, words = ['apple', 'pear', 'pier', 'pie']):
 
 print(can_segment_string("applepiearpier"))
 print(can_segment_string("applepiepier"))  
+print(can_segment_string("applepiep"))  
