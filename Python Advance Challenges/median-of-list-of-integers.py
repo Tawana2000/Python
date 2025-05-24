@@ -2,7 +2,7 @@
 
 def find_median(lst):
 
-    lst.sort() 
+    lst.sort()
 
     median = len(lst) // 2
     return (lst[median] + lst[median - 1]) / 2 if len(lst) % 2 == 0 else lst[median]
