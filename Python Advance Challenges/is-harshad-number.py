@@ -16,3 +16,4 @@ def is_harshad(n):
     
 print(is_harshad(18))
 print(is_harshad(28))
+print(is_harshad(33))
