@@ -12,3 +12,4 @@ def all_primes(numbers):
 
 print(all_primes([2, 3, 5]))
 print(all_primes([4, 8, 7, 13]))
+print(all_primes([6, 9, 2, 1, 13]))
