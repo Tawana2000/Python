@@ -5,6 +5,7 @@ def is_harshad(n):
     
     result = 0
     for num in str(n):
+    
 
         result += int((num))
 
