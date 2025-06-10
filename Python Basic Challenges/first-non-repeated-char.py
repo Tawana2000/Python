@@ -6,4 +6,4 @@ def first_nonrepeated(s):
         if s.count(char) == 1:
             return char
 
-print(first_nonrepeated('bubble'))
+print(first_nonrepeated('bubble')) 
