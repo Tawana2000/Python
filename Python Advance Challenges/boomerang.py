@@ -7,3 +7,4 @@ def is_boomerang(p1, p2, p3):
 
 print(is_boomerang((0, 0), (1, 1), (2, 2)))
 print(is_boomerang((0, 0), (1, 2), (2, 1)))
+print(is_boomerang((0, 0), (1, 2), (2, 1)))
