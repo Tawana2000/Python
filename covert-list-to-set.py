@@ -4,4 +4,4 @@ list1 = ['USA', 'Japan', 'Nepal', 'Japan']
 list2 = ['USA', 'Japan', 'Nepal', 'Japan']
 
 print(set(list1))
-print(set(list1))
+print(set(list2))
