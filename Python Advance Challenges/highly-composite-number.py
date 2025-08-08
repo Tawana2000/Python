@@ -13,3 +13,4 @@ def is_highly_composite(n):
 # Test case
 print(is_highly_composite(12))  # Output: True
 print(is_highly_composite(9))
+print(is_highly_composite(23))
