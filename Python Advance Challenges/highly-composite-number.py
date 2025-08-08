@@ -14,3 +14,4 @@ def is_highly_composite(n):
 print(is_highly_composite(12))  # Output: True
 print(is_highly_composite(9))
 print(is_highly_composite(23))
+print(is_highly_composite(56))
