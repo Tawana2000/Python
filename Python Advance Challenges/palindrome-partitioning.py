@@ -22,3 +22,5 @@ def partition_palindromes(s: str) -> list[list[str]]:
     result = []
     backtrack(0, [], result)
     return result
+
+print(partition_palindromes("aab"))
