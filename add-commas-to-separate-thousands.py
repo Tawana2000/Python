@@ -3,7 +3,6 @@
 def thousands_sep(number):
 
     number = str(number) [::-1]    #convert the number to string and reverse
-
     separated = ''   #empty string to store the result
 
     for i in range(0, len(number)):
