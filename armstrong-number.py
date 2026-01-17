@@ -8,7 +8,6 @@ def armstrong(number):
     for digits in number:
 
         num = int(digits)
-
         sum += num ** 3
 
     if sum == int(number):
