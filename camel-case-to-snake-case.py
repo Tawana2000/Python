@@ -14,12 +14,9 @@ def cam_snake(string):
             snake_case += char.lower()
 
         else:
-
             snake_case += char
 
-        
     return snake_case
-
 
 string = input()
 print(cam_snake(string))
