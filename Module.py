@@ -8,7 +8,6 @@ print(result)
 pi = m.pi
 print(pi)
 
-
 import calculator as cal
 
 result1 = cal.add(2,6)
