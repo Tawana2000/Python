@@ -92,6 +92,5 @@ class Game:
             except:
                 print('Invalid input! Enter a number between (1-5).')
         
- 
 game = Game()
 game.play()
