@@ -21,7 +21,6 @@ def bmi_rate(weight, height):
     elif bmi >= 30.0:
         return 'Obese'
     
-
 weight = float(input())
 height = float(input())
 print(bmi_rate(weight, height))
