@@ -4,13 +4,10 @@
 def improve_english(string):
 
     string = string.strip()  #removes spaces
-
     string = string.capitalize()
-
     string = string + '.'
 
     return string
-
 
 string = input('Type your words: ')
 print(improve_english(string))
