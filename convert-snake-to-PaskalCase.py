@@ -10,7 +10,6 @@ def pas_case(string):
     while counter < len(string):
 
         if counter == 0:
-
                 new_str += string[counter].upper()
 
         elif string[counter] == '_':
@@ -19,7 +18,6 @@ def pas_case(string):
              counter += 1
         
         else:
-             
              new_str += string[counter]
 
         counter += 1
