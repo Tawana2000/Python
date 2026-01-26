@@ -8,9 +8,7 @@ def decipher_string(input_string, shift_key):
         result += new_char
     return result
 
-
 input_string = input("Enter the string to decipher: ").lower()
 shift_key = int(input("Enter the shift key: "))
-
 
 print("Deciphered string:", "'" + decipher_string(input_string, shift_key) + "'")
