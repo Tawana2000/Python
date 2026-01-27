@@ -8,7 +8,6 @@ def count_derangements(n):
     
     for i in range(2, n + 1):
         a, b = b, (i - 1) * (a + b)
-
     return b
 
 print(count_derangements(4))
