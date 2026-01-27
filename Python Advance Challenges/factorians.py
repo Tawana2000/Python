@@ -10,7 +10,6 @@ def find_factorians(start, end):
         if sum(math.factorial(int(d)) for d in str(i)) == i:
             result.append(i)
 
-
     return result
 
 print(find_factorians(1, 500))
