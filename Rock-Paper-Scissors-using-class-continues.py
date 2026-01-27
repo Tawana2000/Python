@@ -37,8 +37,8 @@ class Game:
         print(f"computer's pick: {self.computer_pick}")
         print(f'Your pick: {self.user_pick}')
         print(f'You: {self.result}')
+        
 #Asking the user if he/she wants to play again 
-
 while True:
     game = Game()
     game.print_result()
