@@ -8,6 +8,5 @@ def flip_bits(n):
     
     return n ^ mask
 
-
 print(flip_bits(5))
 print(flip_bits(0))
