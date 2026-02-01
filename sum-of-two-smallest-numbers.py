@@ -5,7 +5,6 @@ def sum_of_smallest(numbers):
     numbers.sort()
 
     result = numbers[0] + numbers[1]
-
     return result
 
 numbers = input().split()
