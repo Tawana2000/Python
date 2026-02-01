@@ -5,7 +5,6 @@ try:
     denominator = int(input())
 
     result = numerator / denominator
-
     print(result)
 
 except:
