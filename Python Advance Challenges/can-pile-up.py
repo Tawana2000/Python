@@ -11,7 +11,6 @@ def can_pile_up(numbers):
             return False
     return True
 
-# Test cases
 print(can_pile_up([4, 3, 2, 1]))  # True
 print(can_pile_up([1, 3, 2, 4]))  # False
 print(can_pile_up([5, 3, 4, 2, 1]))  # True
