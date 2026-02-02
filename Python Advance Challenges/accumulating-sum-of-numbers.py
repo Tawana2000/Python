@@ -8,5 +8,4 @@ def running_sum(numbers):
         result.append(current_sum)
     return result
 
-# Test
 print(running_sum([1, 2, 3, 4]))
