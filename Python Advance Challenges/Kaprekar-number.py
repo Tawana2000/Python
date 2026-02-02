@@ -18,7 +18,6 @@ def is_kaprekar(n):
     
     return left + right == n
 
-
 print(is_kaprekar(45))  
 print(is_kaprekar(9))  
 print(is_kaprekar(10))
