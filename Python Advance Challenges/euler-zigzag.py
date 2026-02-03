@@ -19,5 +19,4 @@ def euler_zigzag(n):
 
     return prev1
 
-
 print(euler_zigzag(4))
