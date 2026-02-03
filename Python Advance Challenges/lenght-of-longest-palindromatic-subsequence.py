@@ -25,7 +25,6 @@ def longest_palindrome_subsequence(s):
 
     return dp[0][n - 1]
 
-
 print(longest_palindrome_subsequence("bbbab")) 
 print(longest_palindrome_subsequence("cbbd"))  
 print(longest_palindrome_subsequence("a"))
