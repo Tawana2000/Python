@@ -11,7 +11,6 @@ def is_friday_13(month, year):
     except ValueError:
         return False
     
-
 month = int(input('Enter the month (1-12): '))
 year = int(input('Enter the year: '))
 
