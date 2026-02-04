@@ -15,7 +15,8 @@ def max_points_on_line(points):
             slopes[slope] = slopes.get(slope, 1) + 1
 
         max_points = max(max_points, max(slopes.values(), default = 1))
-
+        
+    #Return the max points    
     return max_points
 
 print(max_points_on_line([(0,0), (1, 1), (2, 2)]))
