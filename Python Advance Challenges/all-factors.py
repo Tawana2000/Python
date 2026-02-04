@@ -7,7 +7,6 @@ def get_factors(n):
     for i in range(1, n + 1):
         if n % i == 0:
             facotrs.append(i)
-
     return facotrs
 
 print(get_factors(10))
