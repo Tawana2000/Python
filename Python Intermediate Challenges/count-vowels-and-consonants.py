@@ -11,7 +11,7 @@ def count_vowels_and_consonants(s):
                 vowel_count += 1
             else:
                 consonants += 1
-                
+           
     return vowel_count, consonants
 
 vowels, consonants = count_vowels_and_consonants("Hello World!")
