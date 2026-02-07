@@ -7,7 +7,6 @@ def check_sum(numbers, target):
         if target - i in items:
             return True
         items.add(i)
-
     return False
 
 numbers = [1, 2, 3, 4]
