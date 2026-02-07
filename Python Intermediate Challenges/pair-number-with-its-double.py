@@ -6,7 +6,6 @@ def max_pairs(n):
 
     for i in range(1, n + 1):
         result[i] = 2 * i
-    
 
     return result
 
