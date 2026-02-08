@@ -10,7 +10,6 @@ def max_value(s):
 
 print(max_value('34'))
 
-
 # or a better way
 """
 a, b = map(int, s.split())
