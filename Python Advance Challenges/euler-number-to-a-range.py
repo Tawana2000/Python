@@ -12,4 +12,3 @@ def calculate_euler(precision):
     return euler_value
 
 print(calculate_euler(5))
-    
