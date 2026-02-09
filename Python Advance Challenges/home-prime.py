@@ -21,7 +21,6 @@ def home_prime(n):
 
     return n
 
-
 print(home_prime(4)) 
 print(home_prime(10)) 
 print(home_prime(12))  
